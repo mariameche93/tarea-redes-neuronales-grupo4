@@ -5,7 +5,7 @@ Implementación práctica de redes neuronales para el análisis de sentimientos 
 Implementar desde cero componentes neurales fundamentales y demostrar su comprensión de los algoritmos de entrenamiento.
 
 # Estructura del proyecto
-tarea-redes-neuronales-grupo4
+´´´tarea-redes-neuronales-grupo4
 ├── README.md
 ├── requirements.txt
 ├── data/
@@ -25,3 +25,4 @@ tarea-redes-neuronales-grupo4
 │   └── architecture_analysis.png
 └── docs/
     └── reporte_tecnico.md
+´´´
