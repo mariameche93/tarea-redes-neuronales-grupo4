@@ -1,4 +1,8 @@
 # tarea-redes-neuronales-grupo4
+# Descripción
+Implementación práctica de redes neuronales para el análisis de sentimientos en tiempo Real para E-commerce
+# Objetivo
+Implementar desde cero componentes neurales fundamentales y demostrar su comprensión de los algoritmos de entrenamiento.
 
 # Estructura del proyecto
 tarea-redes-neuronales-grupo4
@@ -21,4 +25,3 @@ tarea-redes-neuronales-grupo4
 │   └── architecture_analysis.png
 └── docs/
     └── reporte_tecnico.md
-<img width="446" height="254" alt="image" src="https://github.com/user-attachments/assets/f059a876-5050-4519-b79e-44ef0c79787d" />
